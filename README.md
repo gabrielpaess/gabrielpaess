@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
-## Bem vindo! Eu sou o Gabriel Paes
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo!,+Meu+nome+é+Gabriel+Paes;Sou+desenvolvedor+full-stack;Cursei+Análise+e+desenvolvimento+de+sistemas;Deixo+meus+contatos+à+disposição!+:%29)](https://git.io/typing-svg)
 
 - 🔭 Hoje trabalho com desenvolvimento full-stack.
 - 🌱 Estudando Typescript.
