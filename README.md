@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo!+Meu+nome+é+Gabriel+Paes;Sou+desenvolvedor+full-stack;Cursei+Análise+e+desenvolvimento+de+sistemas;Deixo+meus+contatos+à+disposição!+:%29)](https://git.io/typing-svg)
 
 - 🔭 Hoje trabalho com desenvolvimento full-stack.
-- 🌱 Estudando Typescript.
+- 🌱 Stack Typescript.
 - 📫 Contato: gpaespinheiro@icloud.com
 
 <div style="display: inline_block"><br>
